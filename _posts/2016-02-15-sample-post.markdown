@@ -1,25 +1,22 @@
 ---
 layout: post
-title: Sample Post
+title: ^V^^V^^V^联系我^V^^V^^V^
 date: 2016-02-15 15:32:24.000000000 +09:00
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+新浪微博：[https://weibo.com/tianzhejia](https://weibo.com/tianzhejia)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+CSDN博客：[https://blog.csdn.net/qq_35605018](https://blog.csdn.net/qq_35605018)
 
-Jekyll also offers powerful support for code snippets:
+博客网站：[http://www.zhijiadeboke.xyz](http://www.zhijiadeboke.xyz)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+GitHub：[https://github.com/ZhijiaTian](https://github.com/ZhijiaTian)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+QQ邮箱：2461824656@qq.com
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+126邮箱：tianzhejia@126.com
+
+Outlook邮箱：tianzhejia@outlook.com
+
+以上均可与本人取得联系，欢迎探讨。
+
